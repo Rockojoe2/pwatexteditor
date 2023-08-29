@@ -17,7 +17,7 @@ https://github.com/Rockojoe2/pwatexteditor
 
 You can visit the deployed website using Heroku here!
 
-(heroku site here later)
+https://joey-pwatexteditor-1f5fc898b77c.herokuapp.com/
 
 ## Credits
 UTA class folder
